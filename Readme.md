@@ -18,6 +18,8 @@ The **Credit Card Transaction and Customer Analysis Dashboard** provides insight
   - Revenue and transaction trends segmented by quarter, expenditure type, card usage type, and customer demographics.
   - Customer segmentation by gender, income, education level, and region.
 
+[Download the Credit Card Dashboard Report (PDF)](https://github.com/ikomalgupta/Credit_Card_Analytics_Dashboard/blob/main/Credit_Card_Dashboard.pdf)
+
 ## Usage Instructions
 
 ### Database Setup
